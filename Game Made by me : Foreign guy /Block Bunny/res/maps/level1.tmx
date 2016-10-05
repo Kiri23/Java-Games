@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="78" height="8" tilewidth="32" tileheight="32" nextobjectid="48">
+ <tileset firstgid="1" name="blocks" tilewidth="32" tileheight="32">
+  <image source="blocks.png" width="96" height="32"/>
+ </tileset>
+ <tileset firstgid="4" name="kk" tilewidth="32" tileheight="32">
+  <image source="../../../Games Resources/tiles_and Sprites frominternet/magecity_examples.png" width="1280" height="1280"/>
+ </tileset>
+ <layer name="red" width="78" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRQAgwomFc4oyYWkc0IDY8RnK4YUtDpIQbPjwUALF+GKr+IxcQChcAZFgALw==
+  </data>
+ </layer>
+ <layer name="green" width="78" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMBQA00A7YBAAJiwYl7pRgBsQE4ajYHADAEPAABc=
+  </data>
+ </layer>
+ <layer name="blue" width="78" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKBA8xoeBRQBkbDkHwwmg6pB0bDkPYAAHBEABw=
+  </data>
+ </layer>
+ <objectgroup name="crystals">
+  <object id="1" x="272" y="145" height="4.98193">
+   <ellipse/>
+  </object>
+  <object id="2" x="176.606" y="182.044">
+   <ellipse/>
+  </object>
+  <object id="3" x="529" y="177">
+   <ellipse/>
+  </object>
+  <object id="4" x="753" y="49">
+   <ellipse/>
+  </object>
+  <object id="5" x="786" y="49">
+   <ellipse/>
+  </object>
+  <object id="6" x="1041" y="177">
+   <ellipse/>
+  </object>
+  <object id="7" x="1074" y="177">
+   <ellipse/>
+  </object>
+  <object id="8" x="1105" y="176">
+   <ellipse/>
+  </object>
+  <object id="9" x="1138" y="177">
+   <ellipse/>
+  </object>
+  <object id="10" x="1585" y="144">
+   <ellipse/>
+  </object>
+  <object id="11" x="1680" y="111">
+   <ellipse/>
+  </object>
+  <object id="12" x="1824" y="16">
+   <ellipse/>
+  </object>
+  <object id="13" x="1968" y="113">
+   <ellipse/>
+  </object>
+  <object id="14" x="2066" y="145">
+   <ellipse/>
+  </object>
+  <object id="15" x="2162" y="177">
+   <ellipse/>
+  </object>
+  <object id="16" x="2322" y="209">
+   <ellipse/>
+  </object>
+  <object id="17" x="2354" y="209">
+   <ellipse/>
+  </object>
+  <object id="18" x="2416" y="146">
+   <ellipse/>
+  </object>
+  <object id="19" x="86.3093" y="153.596" width="25.7254" height="26.2017"/>
+  <object id="20" x="402.616" y="122.093"/>
+  <object id="21" x="473.837" y="119.186"/>
+  <object id="24" x="214.131" y="198.771">
+   <ellipse/>
+  </object>
+  <object id="25" x="233.104" y="172.57">
+   <ellipse/>
+  </object>
+  <object id="26" x="201.482" y="167.149">
+   <ellipse/>
+  </object>
+  <object id="27" x="180.701" y="149.078">
+   <ellipse/>
+  </object>
+  <object id="28" x="235.815" y="129.201">
+   <ellipse/>
+  </object>
+  <object id="29" x="151.789" y="118.359">
+   <ellipse/>
+  </object>
+  <object id="30" x="131.912" y="192.447">
+   <ellipse/>
+  </object>
+  <object id="31" x="149.078" y="159.92">
+   <ellipse/>
+  </object>
+  <object id="32" x="149.462" y="111.598">
+   <ellipse/>
+  </object>
+  <object id="33" x="45.835" y="177.361">
+   <ellipse/>
+  </object>
+  <object id="34" x="41.8493" y="208.25">
+   <ellipse/>
+  </object>
+  <object id="35" x="14.9462" y="155.44">
+   <ellipse/>
+  </object>
+  <object id="36" x="13.9498" y="199.283">
+   <ellipse/>
+  </object>
+  <object id="37" x="40.8529" y="120.566">
+   <ellipse/>
+  </object>
+  <object id="38" x="89.6772" y="119.57">
+   <ellipse/>
+  </object>
+  <object id="39" x="117.577" y="118.573" width="9.96413">
+   <ellipse/>
+  </object>
+  <object id="40" x="156.437" y="121.562" width="19.9283">
+   <ellipse/>
+  </object>
+  <object id="41" x="142.487" y="79.713" width="78.7166" height="0.996413">
+   <ellipse/>
+  </object>
+  <object id="42" x="100.638" y="87.6843">
+   <ellipse/>
+  </object>
+  <object id="43" x="380.63" y="174.372">
+   <ellipse/>
+  </object>
+  <object id="44" x="630.729" y="87.6843">
+   <ellipse/>
+  </object>
+  <object id="45" x="725.389" y="97.6485">
+   <ellipse/>
+  </object>
+  <object id="46" x="778.198" y="106.616">
+   <ellipse/>
+  </object>
+  <object id="47" x="916.7" y="106.616">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

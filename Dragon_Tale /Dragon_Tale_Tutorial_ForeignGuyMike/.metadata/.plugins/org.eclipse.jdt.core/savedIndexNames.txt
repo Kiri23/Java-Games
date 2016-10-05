@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+/Users/Christiannogueras/Documents/Programing and Gaming /Eclipse_Java_Gaming_Workspace/Dragon_Tale_Tutorial_ForeignGuyMike/.metadata/.plugins/org.eclipse.jdt.core
